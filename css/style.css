@@ -1,0 +1,35 @@
+a:visited {
+  color: inherit;
+}
+
+.recipe-text {
+  font-family: "Lucida Grande", "Loma", serif;
+  color: #000000;
+  font-size: 18px;
+}
+
+.center {
+  text-align: center;
+}
+
+.heading {
+  font-family: "Georgia", "Nimbus Roman No9 L", serif;
+}
+
+body {
+  background-color: #acdee1;
+}
+
+.recipe-link {
+  font-family: "Verdana", "Kalimati", serif;
+  text-align: center;
+  color: #000000;
+}
+
+.center-img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
