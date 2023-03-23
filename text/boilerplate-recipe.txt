@@ -5,17 +5,23 @@
         <meta charset="utf-8">
         <title></title>
     </head>
+    
     <body class="recipe-text">
         <h1 class="heading center"></h1>
         <img src="" width="auto" height="300" alt="">
+
         <h2 class="heading">Description</h2>
+
         <h3 class="heading">Ingredients</h3>
-        <ul>
-            <li></li>
-        </ul>
-        <h3 class="heading center">Steps</h3>
-        <ol> 
-            <li></li>
-        </ol>
+            <ul>
+                <li></li>
+            </ul>
+
+        <div class="steps-background"
+            <h3 class="heading center">Steps</h3>
+                <ol> 
+                    <li></li>
+                </ol>
+        </div>
     </body>
 <html>
